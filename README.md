@@ -140,7 +140,6 @@ Unreadable files are reported on stderr and skipped; they do not abort the scan.
 ```text
 cli_tool/
 ├── main.py    # the mid_grep CLI
-├── test.py    # scratch/exploration script
 └── README.md
 ```
 
